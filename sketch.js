@@ -54,9 +54,5 @@ function setup() {
   rect(608, 519, 12, 265);  // vertical direita
   rect(373, 741, 235, 14);  // pequena horizontal sob o azul
  
-  // ---------- ASSINATURA ----------
-  fill(150, 70, 50, 170);
-  textSize(8);
-  textAlign(CENTER, CENTER);
-  text("P M 35", 560, 776);
+ 
 }
